@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='k8s-cli',
-    version='1.1.0',  # This will be dynamically updated by the GitHub Action
+    version='1.2.0',  # This will be dynamically updated by the GitHub Action
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
