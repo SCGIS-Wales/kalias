@@ -1,3 +1,6 @@
+![release](https://github.com/SCGIS-Wales/kalias/actions/workflows/release.yml/badge.svg)
+
+
 # Kubernetes CLI Aliases for Python
 
 This Python package provides native Kubernetes CLI aliases, allowing users to manage and query Kubernetes resources directly from Python without using `kubectl`.
