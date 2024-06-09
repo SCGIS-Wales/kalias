@@ -154,6 +154,3 @@ def kd(nodename):
     print(f"Draining node {nodename} with --ignore-daemonsets, --delete-emptydir-data, and --chunk-size=500")
     # Implement drain logic here
     # Handle exceptions as necessary
-
-if __name__ == '__main__':
-    cli()

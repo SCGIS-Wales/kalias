@@ -12,12 +12,12 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        ku=k8s_cli:ku
-        kn=k8s_cli:kn
-        kp=k8s_cli:kp
-        kpf=k8s_cli:kpf
-        kps=k8s_cli:kps
-        kd=k8s_cli:kd
+        ku=k8s_cli.k8s_cli:ku
+        kn=k8s_cli.k8s_cli:kn
+        kp=k8s_cli.k8s_cli:kp
+        kpf=k8s_cli.k8s_cli:kpf
+        kps=k8s_cli.k8s_cli:kps
+        kd=k8s_cli.k8s_cli:kd
     ''',
     author='Dejan Gregor',
     author_email='developer@cloudfever.uk',
